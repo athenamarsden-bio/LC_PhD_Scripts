@@ -1,4 +1,4 @@
-## Script to analyse and identify IGHG sequences ##
+## Script to analyse UK and NOR sequences ##
 
 # A. Marsden - 2024 #
 
