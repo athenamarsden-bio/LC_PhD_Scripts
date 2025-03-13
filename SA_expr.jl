@@ -1,3 +1,9 @@
+## Script to analyse IgDiscover output for SA sequences ##
+
+# A. Marsden - 2024 #
+
+################################################################################################################
+
 using DataFrames, CSV, Statsbase
 
 cd("light_chain_novel")
